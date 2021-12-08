@@ -2,9 +2,11 @@
 
 
 # 查詢所有docker容器狀態
+
 sudo docker ps -a
 
-＃ 停止所有容器
+# 停止所有容器
+
 sudo docker stop $(docker ps -aq)
 
 
