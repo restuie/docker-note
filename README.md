@@ -29,3 +29,7 @@ https://www.zhihu.com/question/416048158
 問題：Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get http://%2Fvar%2Frun%2Fdocker.sock/v1.24/containers/json?all=1: dial unix /var/run/docker.sock: connect: permission denied
 
 解決：sudo chmod 777 /var/run/docker.sock
+
+# maixiang Dockerfile
+
+docker build -t cuda-base:10.1-runtime-ssh-1.0 .
