@@ -33,3 +33,7 @@ https://www.zhihu.com/question/416048158
 # maixiang Dockerfile
 
 docker build -t cuda-base:10.1-runtime-ssh-1.0 .
+
+# 查詢docker brige網路
+
+docker network inspect bridge
