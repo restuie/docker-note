@@ -37,3 +37,9 @@ docker build -t cuda-base:10.1-runtime-ssh-1.0 .
 # 查詢docker brige網路
 
 docker network inspect bridge
+
+# yolov4 docker
+
+https://t.ly/xBgz   Docker: Nvidia Driver, Nvidia Docker 推荐安装步骤
+
+https://t.ly/Zoep   YOLOv4: Darknet 如何于 Docker 编译，及训练 COCO 子集
