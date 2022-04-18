@@ -42,4 +42,8 @@ docker network inspect bridge
 
 https://t.ly/xBgz   Docker: Nvidia Driver, Nvidia Docker 推荐安装步骤
 
-https://t.ly/Zoep   YOLOv4: Darknet 如何于 Docker 编译，及训练 COCO 子集
+https://t.ly/Zoep   YOLOv4: Darknet 如何于 Docker 编译，及训练 COCO 子集 
+
+https://t.ly/hJPU  yolov4 预训练模型yolov4.conv.137及测试模型yolov4.weights，yolov4_ncnn模型yolov4.param
+
+https://t.ly/8Hjj  YOLOv4實作教學(使用官方repo)
