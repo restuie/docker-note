@@ -49,3 +49,5 @@ https://t.ly/hJPU  yolov4 预训练模型yolov4.conv.137及测试模型yolov4.we
 https://t.ly/8Hjj  YOLOv4實作教學(使用官方repo)
 
 https://t.ly/WSTL  Yolov4模型訓練規則和技巧
+
+https://t.ly/J4cu  使用YOLOv4進行COCO資料集訓練
