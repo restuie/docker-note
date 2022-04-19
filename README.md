@@ -52,4 +52,4 @@ https://t.ly/WSTL  Yolov4模型訓練規則和技巧
 
 https://t.ly/J4cu  使用YOLOv4進行COCO資料集訓練
 
-https://t.ly/BV7w  YOLOv4-Training
+https://t.ly/BV7w  YOLOv4-Training自訂義訓練
