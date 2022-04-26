@@ -38,6 +38,10 @@ docker build -t cuda-base:10.1-runtime-ssh-1.0 .
 
 docker network inspect bridge
 
+# 查詢資料夾內物件數量
+
+ls | wc -l
+
 # yolov4 docker
 
 https://t.ly/xBgz   Docker: Nvidia Driver, Nvidia Docker 推荐安装步骤
