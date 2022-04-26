@@ -58,3 +58,11 @@ https://t.ly/J4cu  使用YOLOv4進行COCO資料集訓練
 
 https://t.ly/BV7w  YOLOv4-Training自訂義訓練
 
+# yolo訓練
+
+./darknet detector train cfg/coco.data yolo-obj.cfg yolov4.conv.137 -gpus all -map |tee -a trainRecord.txt
+
+./darknet detector test cfg/coco.data yolo-obj.cfg backup/yolo-obj_final.weights data/kite.jpg -i 0 -thresh 0.25
+
+
+
